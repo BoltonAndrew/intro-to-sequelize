@@ -1,0 +1,4 @@
+# This hides the node modules folder as any collaborator can run 'npm i' to install the relevant packages
+/node_modules
+# This hides any file that ends with '.sqlite' so that we don't push our db file to GitHub
+*.sqlite

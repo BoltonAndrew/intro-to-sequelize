@@ -1,0 +1,24 @@
+{
+  "name": "intro-to-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoltonAndrew/intro-to-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoltonAndrew/intro-to-sequelize/issues"
+  },
+  "homepage": "https://github.com/BoltonAndrew/intro-to-sequelize#readme",
+  "dependencies": {
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  }
+}
